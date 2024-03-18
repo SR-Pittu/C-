@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\bin\Debug\net8.0\Parsing.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\bin\Debug\net8.0\Parsing.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\bin\Debug\net8.0\Parsing.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\bin\Debug\net8.0\Parsing.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\bin\Debug\net8.0\Parsing.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\refint\Parsing.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\Parsing.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Parsing\obj\Debug\net8.0\ref\Parsing.dll

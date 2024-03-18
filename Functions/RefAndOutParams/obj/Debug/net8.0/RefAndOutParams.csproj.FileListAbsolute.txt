@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\refint\RefAndOutParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\RefAndOutParams\obj\Debug\net8.0\ref\RefAndOutParams.dll

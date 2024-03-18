@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

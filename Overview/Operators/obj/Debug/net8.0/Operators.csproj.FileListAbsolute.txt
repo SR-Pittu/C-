@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Operators\obj\Debug\net8.0\ref\Operators.dll

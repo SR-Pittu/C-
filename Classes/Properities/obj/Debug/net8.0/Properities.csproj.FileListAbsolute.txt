@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\bin\Debug\net8.0\Properities.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\bin\Debug\net8.0\Properities.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\bin\Debug\net8.0\Properities.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\bin\Debug\net8.0\Properities.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\bin\Debug\net8.0\Properities.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\refint\Properities.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\Properities.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Properities\obj\Debug\net8.0\ref\Properities.dll

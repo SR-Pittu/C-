@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\bin\Debug\net8.0\Foratting.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\bin\Debug\net8.0\Foratting.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\bin\Debug\net8.0\Foratting.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\bin\Debug\net8.0\Foratting.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\bin\Debug\net8.0\Foratting.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\refint\Foratting.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\Foratting.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Strings\Foratting\obj\Debug\net8.0\ref\Foratting.dll

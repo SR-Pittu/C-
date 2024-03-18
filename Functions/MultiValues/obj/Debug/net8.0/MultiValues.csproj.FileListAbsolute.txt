@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\bin\Debug\net8.0\MultiValues.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\bin\Debug\net8.0\MultiValues.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\bin\Debug\net8.0\MultiValues.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\bin\Debug\net8.0\MultiValues.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\bin\Debug\net8.0\MultiValues.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\refint\MultiValues.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\MultiValues.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\MultiValues\obj\Debug\net8.0\ref\MultiValues.dll

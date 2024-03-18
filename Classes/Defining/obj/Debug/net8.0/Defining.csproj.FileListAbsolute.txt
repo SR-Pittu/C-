@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\bin\Debug\net8.0\Defining.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\bin\Debug\net8.0\Defining.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\bin\Debug\net8.0\Defining.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\bin\Debug\net8.0\Defining.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\bin\Debug\net8.0\Defining.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\refint\Defining.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\Defining.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\Defining\obj\Debug\net8.0\ref\Defining.dll

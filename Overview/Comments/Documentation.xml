@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Comments</name>
+    </assembly>
+    <members>
+        <member name="M:Comments.Program.Main(System.String[])">
+            XML comments are used to help provide documentation
+            They start with multiple slashes and have special syntax.
+            <summary>
+            This is main sample application function
+            </summary>
+            <param name="args">array of string arguments from the command line</param>
+            <returns>
+            This function has no return value
+            </returns>
+        </member>
+    </members>
+</doc>

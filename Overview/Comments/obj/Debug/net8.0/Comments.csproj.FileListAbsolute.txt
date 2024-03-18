@@ -1,0 +1,15 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Comments.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Comments.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Comments.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Comments.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\bin\Debug\net8.0\Documentation.xml
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\refint\Comments.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\Comments\obj\Debug\net8.0\ref\Comments.dll

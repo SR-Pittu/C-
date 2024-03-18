@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\bin\Debug\net8.0\StringRep.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\bin\Debug\net8.0\StringRep.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\bin\Debug\net8.0\StringRep.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\bin\Debug\net8.0\StringRep.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\bin\Debug\net8.0\StringRep.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\refint\StringRep.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\StringRep.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Classes\StringRep\obj\Debug\net8.0\ref\StringRep.dll

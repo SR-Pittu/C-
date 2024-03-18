@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\bin\Debug\net8.0\VarAndData.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\bin\Debug\net8.0\VarAndData.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\bin\Debug\net8.0\VarAndData.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\bin\Debug\net8.0\VarAndData.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\bin\Debug\net8.0\VarAndData.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\refint\VarAndData.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\VarAndData.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Overview\VarAndData\obj\Debug\net8.0\ref\VarAndData.dll

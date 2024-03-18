@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\bin\Debug\net8.0\Conditional.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\bin\Debug\net8.0\Conditional.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\bin\Debug\net8.0\Conditional.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\bin\Debug\net8.0\Conditional.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\bin\Debug\net8.0\Conditional.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\refint\Conditional.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\Conditional.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\Conditional\obj\Debug\net8.0\ref\Conditional.dll

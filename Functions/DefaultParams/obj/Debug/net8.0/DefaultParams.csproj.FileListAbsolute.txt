@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\refint\DefaultParams.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Functions\DefaultParams\obj\Debug\net8.0\ref\DefaultParams.dll

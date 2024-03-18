@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\Users\lokes\OneDrive\Desktop\c#\Exercises\Program Flow\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll
